@@ -1,6 +1,5 @@
 
-![OnePiece](https://github.com/MuratAlpTR/MuratAlpTR/assets/59587470/4ac7063b-0813-4d1c-8ef1-f0ff5be45ec0)
-
+![OnePieceNetflix](https://github.com/MuratAlpTR/MuratAlpTR/assets/59587470/31d6c693-0d99-456c-88c8-0e2cf2afe88a)
 ### Hi there 👋
 
 <!--

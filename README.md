@@ -1,5 +1,5 @@
 
-![OnePieceNetflix](https://github.com/MuratAlpTR/MuratAlpTR/blob/main/src/photo_2024-12-10_01-46-33.jpg)
+![OnePieceNetflix](https://raw.githubusercontent.com/MuratAlpTR/MuratAlpTR/refs/heads/main/src/photo_2025-01-01_01-51-08.jpg)
 
 
 ### Hi there 👋

@@ -1,5 +1,5 @@
 
-![OnePieceNetflix](https://raw.githubusercontent.com/MuratAlpTR/MuratAlpTR/refs/heads/main/src/DarthVaderX.webp)
+![OnePieceNetflix](https://github.com/MuratAlpTR/MuratAlpTR/blob/main/src/DarthVaderVRBanner.png)
 
 ### Hi there 👋
 

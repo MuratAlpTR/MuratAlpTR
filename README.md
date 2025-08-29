@@ -1,5 +1,5 @@
 
-![OnePieceNetflix](https://github.com/MuratAlpTR/MuratAlpTR/blob/main/src/luffy-floral-hat-one-piece-desktop-wallpaper-preview.jpg)
+![OnePieceNetflix](https://raw.githubusercontent.com/MuratAlpTR/MuratAlpTR/refs/heads/main/src/GithubX.jpg)
 
 ### Hi there 👋
 
